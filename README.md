@@ -1,2 +1,9 @@
-# indice-crud-jsp-dam-2020
+# Índice del CRUD en JSP y MySQL
+
 Índice del CRUD en JSP y MySQL - Curso 2019 / 2020
+
+Enunciado del ejercicio: [ejercicio_crud_2020.pdf](ejercicio_crud_2020.pdf)
+
+Apellidos, Nombre - Título del CRUD (enlazar con el repositorio)
+
+* Apellidos, Nombre - [Nombre de la aplicación]()
