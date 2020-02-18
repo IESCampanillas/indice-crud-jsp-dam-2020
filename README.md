@@ -14,3 +14,5 @@ Apellidos, Nombre - Título del CRUD (enlazar con el repositorio)
 * Rosales Girón, José Antonio - [ListaVideojuegosPendientes](https://github.com/joseantoniorosales/ListaVideojuegosPendientes)
 * González Mora, Miguel - [OpticManager](https://github.com/Miguelgm1693/OpticManager)
 * Lago Muñoz, Luca - [DSRLiveSummonSign](https://github.com/ROMthesheep/DSRLiveSummonSign)
+* Toscano Díaz, Sergio - [Personajes y Casas de Harry Potter](https://github.com/sergiotoscanodiaz/Personajes-y-Casas-de-Harry-Potter)
+
