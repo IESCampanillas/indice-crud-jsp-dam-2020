@@ -20,4 +20,4 @@ Apellidos, Nombre - Título del CRUD (enlazar con el repositorio)
 * Torres de Oses, Iván - [Tienda de dados](https://github.com/IvanTorres21/dice-shop)
 * Pablo Luis Molina Blanes - [La consulta del Dentista](https://github.com/PabloLuisMolinaBlanes/LaConsultaDelDentista)
 * Pavón López, Juan - [Creación de tu propio equipo Pokemon](https://github.com/JuanPavon/EquipoPokemon)
-
+* Cano Santana, Miguel - [FurManage](https://github.com/miguelcanosantana/FurManage)
