@@ -6,7 +6,6 @@ Enunciado del ejercicio: [ejercicio_crud_2020.pdf](ejercicio_crud_2020.pdf)
 
 Apellidos, Nombre - Título del CRUD (enlazar con el repositorio)
 
-* Apellidos, Nombre - [Nombre de la aplicación]()
 * Cisneros Santana, Pedro - [RET](https://github.com/PedroCisnerosSantana/Reverse-Engineering-Training)
 * Carmona Suárez, Francisco - [WoW guild manager](https://github.com/Frankcs96/WoW-Guild-Manager)
 * Gallardo Luque, Víctor - [Encadena](https://github.com/VictorGallardo/Encadena)
